@@ -30,7 +30,7 @@
             "color_slidebg": "rgba(0,0,0,0)",
             "color_slidebg_opacity": 0,
             "color_slidebg_blur": 20,
-            "color_text": "#2c2d2e",
+            "color_text": "#ffffff",
             "color_badge_bg": "#3f72e5",
             "color_badge_text": "#ffffff",
             "overlay_color": "#000000",
@@ -288,34 +288,43 @@
       ],
       "settings": {}
     },
-    "17760163776171af73": {
-      "type": "_blocks",
+    "text_with_icons_yDQxJW": {
+      "type": "text-with-icons",
       "blocks": {
-        "ai_gen_block_a41b46e_Eii8Ld": {
-          "type": "ai_gen_block_a41b46e",
+        "icon_DaPEF8": {
+          "type": "icon",
           "settings": {
-            "icon_1": "shield",
-            "title_1": "Money back guarantee",
-            "icon_2": "truck",
-            "title_2": "Free shipping",
-            "desktop_width_percent": 100,
-            "gap": 40,
-            "item_gap": 15,
-            "padding_vertical": 40,
-            "padding_horizontal": 20,
-            "icon_size": 50,
-            "title_size": 18,
-            "icon_color": "#000000",
-            "title_color": "#1a1c1d",
-            "background_color": "#f5f5f5"
-          },
-          "blocks": {}
+            "icon": "truck",
+            "heading": "Delivery All Over Lebanon",
+            "text": ""
+          }
+        },
+        "icon_9abRBz": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "24/7 Support",
+            "text": ""
+          }
         }
       },
       "block_order": [
-        "ai_gen_block_a41b46e_Eii8Ld"
+        "icon_DaPEF8",
+        "icon_9abRBz"
       ],
-      "settings": {}
+      "name": "Text with icons",
+      "settings": {
+        "text_alignment": "left",
+        "icon_position": "left",
+        "icon_size": "large",
+        "heading_size": "large",
+        "mobile_swipe": true,
+        "color_bg": "transparent",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
     }
   },
   "order": [
@@ -325,6 +334,6 @@
     "rich_text_6KeaF6",
     "ss_wave_2_7eErKi",
     "177618680130bcc4c2",
-    "17760163776171af73"
+    "text_with_icons_yDQxJW"
   ]
 }
