@@ -62,35 +62,6 @@
         "disable_bottom_spacing": true
       }
     },
-    "17760163776171af73": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_a41b46e_Eii8Ld": {
-          "type": "ai_gen_block_a41b46e",
-          "settings": {
-            "icon_1": "shield",
-            "title_1": "Money back guarantee",
-            "icon_2": "truck",
-            "title_2": "Free shipping",
-            "desktop_width_percent": 100,
-            "gap": 40,
-            "item_gap": 15,
-            "padding_vertical": 40,
-            "padding_horizontal": 20,
-            "icon_size": 50,
-            "title_size": 18,
-            "icon_color": "#000000",
-            "title_color": "#1a1c1d",
-            "background_color": "#f5f5f5"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_a41b46e_Eii8Ld"
-      ],
-      "settings": {}
-    },
     "featured_product_AypCGn": {
       "type": "featured-product",
       "blocks": {
@@ -209,68 +180,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "scrolling_text_C3pDUa": {
-      "type": "scrolling-text",
-      "blocks": {
-        "text_fDAnig": {
-          "type": "text",
-          "settings": {
-            "text": "Welcome To Domina Home",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_ELyzcn": {
-          "type": "text",
-          "settings": {
-            "text": "Welcome To Domina Home",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_gigpDd": {
-          "type": "text",
-          "settings": {
-            "text": "Welcome To Domina Home",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_8RWbKq": {
-          "type": "text",
-          "settings": {
-            "text": "Welcome To Domina Home",
-            "link": "",
-            "outline_text": false
-          }
-        }
-      },
-      "block_order": [
-        "text_fDAnig",
-        "text_ELyzcn",
-        "text_gigpDd",
-        "text_8RWbKq"
-      ],
-      "name": "Scrolling text",
-      "settings": {
-        "height": "height-auto",
-        "full_width": false,
-        "direction": "left",
-        "speed": "20s",
-        "rotation": 0,
-        "negative_rotation": false,
-        "font_family": "heading",
-        "text_size": 16,
-        "text_uppercase": false,
-        "image_size": "large",
-        "color_bg": "#2c2d2e",
-        "color_text": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
     "rich_text_6KeaF6": {
       "type": "rich-text",
       "blocks": {
@@ -331,6 +240,82 @@
         "content_width": 120,
         "border_thickness": 0
       }
+    },
+    "177618680130bcc4c2": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_95ba356_hq7Qer": {
+          "type": "ai_gen_block_95ba356",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "subtitle": "Find answers to common questions below",
+            "text_alignment": "left",
+            "question_1": "How long does shipping take?",
+            "answer_1": "<p>Orders are typically processed within 1–3 business days. Delivery usually takes 5–7 business days depending on your location.</p>",
+            "question_2": "What if my item arrives damaged or incorrect?",
+            "answer_2": "<p>If your item arrives damaged, defective, or incorrect, please contact us within 48 hours of delivery with photos, and we will resolve the issue quickly.</p>",
+            "question_3": "Are your products safe to use?",
+            "answer_3": "<p>Yes, all our products are carefully selected and tested to ensure they are safe, reliable, and suitable for everyday use. We prioritize quality and customer satisfaction in everything we offer.</p>",
+            "question_4": "Do you offer Cash on Delivery (COD)?",
+            "answer_4": "<p>Yes! We offer Cash on Delivery for your convenience. You can pay for your order in cash when it arrives at your doorstep.</p>",
+            "question_5": "",
+            "answer_5": "",
+            "desktop_width_percent": 100,
+            "padding": 40,
+            "border_radius": 0,
+            "item_padding": 20,
+            "spacing_below_heading": 30,
+            "heading_font": "inter_n6",
+            "heading_size": 32,
+            "subtitle_size": 16,
+            "question_font": "inter_n6",
+            "question_size": 18,
+            "answer_size": 15,
+            "icon_size": 24,
+            "background_color": "#ffffff",
+            "heading_color": "#1a1c1d",
+            "text_color": "#2c2d2e",
+            "question_color": "#1a1c1d",
+            "question_hover_color": "#000000",
+            "icon_color": "#2c2d2e",
+            "divider_color": "#e0e0e0"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_95ba356_hq7Qer"
+      ],
+      "settings": {}
+    },
+    "17760163776171af73": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_a41b46e_Eii8Ld": {
+          "type": "ai_gen_block_a41b46e",
+          "settings": {
+            "icon_1": "shield",
+            "title_1": "Money back guarantee",
+            "icon_2": "truck",
+            "title_2": "Free shipping",
+            "desktop_width_percent": 100,
+            "gap": 40,
+            "item_gap": 15,
+            "padding_vertical": 40,
+            "padding_horizontal": 20,
+            "icon_size": 50,
+            "title_size": 18,
+            "icon_color": "#000000",
+            "title_color": "#1a1c1d",
+            "background_color": "#f5f5f5"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_a41b46e_Eii8Ld"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -338,8 +323,8 @@
     "featured_product_AypCGn",
     "scrolling_text_JtGtej",
     "rich_text_6KeaF6",
-    "scrolling_text_C3pDUa",
     "ss_wave_2_7eErKi",
+    "177618680130bcc4c2",
     "17760163776171af73"
   ]
 }
