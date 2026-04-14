@@ -23,10 +23,32 @@
             "color_bg": "#b98307",
             "color_text": "#ffffff"
           }
+        },
+        "text_6WrqBP": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Delivery All Over Lebanon",
+            "link": "",
+            "color_bg": "#b98307",
+            "color_text": "#ffffff"
+          }
+        },
+        "text_EfarBd": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Delivery All Over Lebanon",
+            "link": "",
+            "color_bg": "#b98307",
+            "color_text": "#ffffff"
+          }
         }
       },
       "block_order": [
-        "888fc484-50e5-4566-bad6-41e835d00d5f"
+        "888fc484-50e5-4566-bad6-41e835d00d5f",
+        "text_6WrqBP",
+        "text_EfarBd"
       ],
       "settings": {
         "announcement_bar": true,
@@ -53,9 +75,10 @@
       "type": "header",
       "settings": {
         "sticky_header": true,
-        "logo_height_range": 26,
-        "logo_height_range_mobile": 26,
-        "style": "style5",
+        "logo": "shopify://shop_images/logo-removebg-preview.png",
+        "logo_height_range": 81,
+        "logo_height_range_mobile": 64,
+        "style": "style3",
         "header_shadow": "header--shadow-small",
         "menu": "main-menu",
         "transparent_header": false,
